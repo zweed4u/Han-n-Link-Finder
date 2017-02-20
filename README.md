@@ -49,4 +49,4 @@ If there aren't any cases found within this range try decrementing or incrementi
 
 
 
-Follow me on twitter @zweed4u/@jayzer1217
+Follow me on twitter @zweed4u
